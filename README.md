@@ -8,7 +8,7 @@ This repository contains a collection of GIS tutorials completed in QGIS to buil
 - **QGIS Version Used:** QGIS Desktop 4.0.0  
 - **Operating System:** Windows 11 Home  
 - **Plugins Used:**  
-  - - None (all tutorials were completed using built-in QGIS tools)
+  - None (all tutorials were completed using built-in QGIS tools)
 
 ## Completed Tutorials
 - [Making a Map](https://www.qgistutorials.com/en/docs/3/making_a_map.html)  
