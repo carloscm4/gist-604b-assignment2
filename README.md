@@ -5,10 +5,10 @@ GIST 604B Assignment 2: QGIS Desktop GIS Projects
 This repository contains a collection of GIS tutorials completed in QGIS to build practical geospatial skills. The tutorials walk through common tasks like creating maps, working with different data types, and running basic spatial analysis. Along the way, I worked with both vector and raster data and learned how to manage and visualize it effectively. Overall, this project shows my progress in learning how GIS tools are used in real-world situations.
 
 ## Software Environment
-- **QGIS Version Used:** [Add your version here]  
-- **Operating System:** [Add your OS here]  
+- **QGIS Version Used:** QGIS Desktop 4.0.0  
+- **Operating System:** Windows 11 Home  
 - **Plugins Used:**  
-  - (Add any plugins if you used them)
+  - none
 
 ## Completed Tutorials
 - [Making a Map](https://www.qgistutorials.com/en/docs/3/making_a_map.html)  
